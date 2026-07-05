@@ -29,3 +29,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=Theangryysoul&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE-AIML Student (2023–2027)
+- 🤖 Currently learning Artificial Intelligence, Machine Learning & Data Structures and Algorithms
+- 🌐 Building MERN stack projects to strengthen full-stack development skills
+- 🎯 Aspiring AI Engineer passionate about solving real-world problems with AI
+- 📍  Delhi, India
