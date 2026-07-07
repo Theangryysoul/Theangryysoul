@@ -69,3 +69,21 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Theangryysoul&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+## 🚀 Featured Projects
+
+### 📚 Coursify *(In Progress)*
+A full-stack MERN SaaS platform for organizing and learning from online courses available on Youtube. Built with a modern, scalable architecture featuring secure JWT authentication, premium UI/UX, and user-defined course collections.
+
+**Tech:** React • TypeScript • Node.js • Express • MongoDB • JWT • Tailwind CSS • shadcn/ui
+
+➡️ **Repository:** https://github.com/Theangryysoul/Coursify
+
+---
+
+### 🎨 Imagify
+An AI-powered image generation platform that transforms text prompts into images using AI. Includes secure JWT authentication, Razorpay integration, and a credit-based system for image generation.
+
+**Tech:** React • Node.js • Express • MongoDB • Razorpay • ClipDrop API
+
+➡️ **Repository:** https://github.com/Theangryysoul/Imagify
