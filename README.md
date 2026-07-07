@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
+
 # Hi 👋, I'm Vishal Verma
 
 ### Aspiring AI/ML Engineer & Full Stack Developer
