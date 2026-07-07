@@ -65,3 +65,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Theangryysoul&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
