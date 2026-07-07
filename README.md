@@ -91,3 +91,9 @@ An AI-powered image generation platform that transforms text prompts into images
 **Tech:** React • Node.js • Express • MongoDB • Razorpay • ClipDrop API
 
 ➡️ **Repository:** https://github.com/Theangryysoul/Imagify
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Theangryysoul/Theangryysoul/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
