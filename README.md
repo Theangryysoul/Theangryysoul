@@ -28,19 +28,33 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
+## 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/Theangryysoul/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/Theangryysoul/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</p>
+
+## 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Structures & Algorithms (C++)
+- 🏗️ Backend Development (Node.js & Express)
+- ⚙️ System Design Fundamentals
+
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=Theangryysoul&theme=tokyonight&hide_border=true" />
 </p>
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE-AIML Student (2023–2027)
-- 🤖 Currently learning Artificial Intelligence, Machine Learning & Data Structures and Algorithms
-- 🌐 Building MERN stack projects to strengthen full-stack development skills
-- 🎯 Aspiring AI Engineer passionate about solving real-world problems with AI
-- 📍  Delhi, India
 
 ## 🌐 Connect with Me
 
