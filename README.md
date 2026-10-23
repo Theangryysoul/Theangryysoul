@@ -90,12 +90,23 @@
 
 ## 🚀 Featured Projects
 
-### 📚 Coursify *(In Progress)*
+### 📚 Coursify
 A full-stack MERN SaaS platform for organizing and learning from online courses available on Youtube. Built with a modern, scalable architecture featuring secure JWT authentication, premium UI/UX, and user-defined course collections.
 
 **Tech:** React • TypeScript • Node.js • Express • MongoDB • JWT • Tailwind CSS • shadcn/ui
 
+➡️ **URL:** https://getcoursify.vercel.app/login
 ➡️ **Repository:** https://github.com/Theangryysoul/Coursify
+
+---
+
+### 🧩 Coursify Extension
+A Chrome extension that lets users import any YouTube video or playlist directly into [Coursify](https://getcoursify.vercel.app/) as a course with a single right-click. Seamlessly turn YouTube content into organized learning resources without manually copying and pasting URLs.
+
+**Tech:** JavaScript • Chrome Extensions API • HTML • CSS
+
+⬇️ **Download ZIP:** [Coursify Chrome Extension v1.0.0](https://github.com/Theangryysoul/Coursify-extension/releases/download/v1.0.0/Coursify-extension.zip)
+➡️ **Repository:** [Coursify-Extension](https://github.com/Theangryysoul/Coursify-Extension)
 
 ---
 
